@@ -1,5 +1,3 @@
-# Instructions
-
 ## Task
 
 You've learned how to code a custom hook in React.
